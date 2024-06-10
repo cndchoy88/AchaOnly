@@ -1,6 +1,6 @@
 [Unit]
 Description=BADVPN 7100
-Documentation=https://t.me/xdxl_store
+Documentation=88numb.my.id
 After=syslog.target network-online.target
 
 [Service]
